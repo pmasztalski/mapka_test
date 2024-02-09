@@ -1,0 +1,352 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.683102,
+					50.287332
+				]
+			},
+			"properties": {
+				"name": "G-MUF4",
+				"desc": "mufa",
+				"city": "Gliwice",
+				"info": "na kablu G-CK_G-LT, odejście do G-SOSIR"
+			},
+			"id": "G-MUF4"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.027753,
+					50.255844
+				]
+			},
+			"properties": {
+				"name": "K-MUF9",
+				"desc": "mufa",
+				"city": "Katowice",
+				"info": "na kablu K-PS_K-US"
+			},
+			"id": "K-MUF9"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.027753,
+					50.255844
+				]
+			},
+			"properties": {
+				"name": "K-MUF10",
+				"desc": "mufa",
+				"city": "Katowice",
+				"info": "na kablu K-PS_K-AMU"
+			},
+			"id": "K-MUF10"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.002298,
+					50.253290
+				]
+			},
+			"properties": {
+				"name": "K-MUF11",
+				"desc": "mufa",
+				"city": "Katowice",
+				"info": "na kablu K-SUMP_K-AEA"
+			},
+			"id": "K-MUF11"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.002298,
+					50.253290
+				]
+			},
+			"properties": {
+				"name": "K-MUF36",
+				"desc": "mufa",
+				"city": "Katowice",
+				"info": "na kablu K-GIG-CT_K-4DC"
+			},
+			"id": "K-MUF36"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.003575,
+					50.250155
+				]
+			},
+			"properties": {
+				"name": "K-MUF6",
+				"desc": "mufa",
+				"city": "Katowice",
+				"info": ""
+			},
+			"id": "K-MUF6"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.990362,
+					50.242744
+				]
+			},
+			"properties": {
+				"name": "K-MUF7",
+				"desc": "mufa",
+				"city": "Katowice",
+				"info": "na kablu K-AWF_K-USDS1"
+			},
+			"id": "K-MUF7"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					18.971549,
+					50.230305
+				]
+			},
+			"properties": {
+				"name": "K-MUF8",
+				"desc": "mufa",
+				"city": "Katowice",
+				"info": "na kablu K-AWF_K-USDS1"
+			},
+			"id": "K-MUF8"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						19.027753,
+						50.255844
+					],
+					[
+						19.027725,
+						50.255744
+					],
+					[
+						19.027529,
+						50.255199
+					],
+					[
+						19.027683,
+						50.255182
+					],
+					[
+						19.028080,
+						50.255160
+					],
+					[
+						19.028229,
+						50.255148
+					],
+					[
+						19.028437,
+						50.255129
+					],
+					[
+						19.029313,
+						50.255051
+					],
+					[
+						19.029603,
+						50.254986
+					],
+					[
+						19.029625,
+						50.254984
+					]
+				]
+			},
+					"properties": {
+				"name": "K-MUF10_K-AMU",
+				"desc": "kabel",
+				"city": "Katowice",
+				"notes": "",
+				"info": "48J",
+				"points": [
+					"K372",
+					"K371",
+					"K370",
+					"K409",
+					"K410",
+					"K411",
+					"K412",
+					"K413",
+					"K414",
+					"K-AMUbud"
+				]
+			},
+			"id": "K-MUF10_K-AMU"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						19.033820,
+						50.255142
+					],
+					[
+						19.033840,
+						50.255173
+					],
+					[
+						19.033782,
+						50.254717
+					],
+					[
+						19.033732,
+						50.254333
+					],
+					[
+						19.034541,
+						50.254261
+					],
+					[
+						19.034847,
+						50.254225
+					],
+					[
+						19.034940,
+						50.254219
+					],
+					[
+						19.034814,
+						50.253342
+					],
+					[
+						19.034673,
+						50.253179
+					],
+					[
+						19.034568,
+						50.252539
+					],
+					[
+						19.033752,
+						50.252120
+					],
+					[
+						19.033568,
+						50.251728
+					],
+					[
+						19.033511,
+						50.251132
+					],
+					[
+						19.033398,
+						50.251278
+					],
+					[
+						19.033092,
+						50.251303
+					],
+					[
+						19.032857,
+						50.251322
+					],
+					[
+						19.032299,
+						50.251370
+					],
+					[
+						19.031678,
+						50.251434
+					],
+					[
+						19.031510,
+						50.251444
+					],
+					[
+						19.030630,
+						50.251515
+					],
+					[
+						19.030619,
+						50.251736
+					],
+					[
+						19.030764,
+						50.252024
+					],
+					[
+						19.030709,
+						50.252116
+					],
+					[
+						19.030816,
+						50.252581
+					],
+					[
+						19.030906,
+						50.252550
+					]
+				]
+			},
+			"properties": {
+				"name": "K-PS13_K-BS",
+				"desc": "kabel",
+				"city": "Katowice",
+				"notes": "",
+				"info": "20J8G",
+				"points": [
+					"K-PS13bud",
+					"K449",
+					"K450",
+					"K451",
+					"K452",
+					"K453",
+					"K454",
+					"K455",
+					"K456",
+					"K457",
+					"K458",
+					"K459",
+					"K460",
+					"K461",
+					"K462",
+					"K463",
+					"K464",
+					"K465",
+					"K466",
+					"K467",
+					"K468",
+					"K469",
+					"K470",
+					"K471",
+					"K-BSbud"
+				]
+			},
+			"id": "K-PS13_K-BS"
+		}
+	]
+}
